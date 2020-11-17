@@ -1,8 +1,8 @@
 ### Hi there 👋
-'''
+```
 I´m a full stack software developer from Mexico. I mainly code in Java and Javascript, but always learning all I can.  <br
 Deeply interested in software architecture, clean code, DevOps, and project maintainability.  
-'''
+```
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AlanOrtega91)
 
 
