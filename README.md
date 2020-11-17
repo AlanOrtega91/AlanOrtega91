@@ -5,7 +5,10 @@ Deeply interested in software architecture, clean code, DevOps, and project main
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AlanOrtega91)
 
-
+## Quick overview
+* GitHub stats:  
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AlanOrtega91&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanOrtega91&layout=compact&count_private=true)
 
 
 - 🔭 I’m co-funder of [Hi doc](https://www.hidoc.com.mx/) and working on developing new functionalities and maintaining its code
@@ -14,7 +17,7 @@ Deeply interested in software architecture, clean code, DevOps, and project main
 - 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
 
 **Languages and Tools:**  
-
+<p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -39,7 +42,7 @@ Deeply interested in software architecture, clean code, DevOps, and project main
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-
+</p>
 <!--
 **AlanOrtega91/AlanOrtega91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -54,8 +57,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## Quick overview
-* GitHub stats:  
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AlanOrtega91&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanOrtega91&layout=compact&count_private=true)
