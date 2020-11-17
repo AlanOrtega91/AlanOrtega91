@@ -12,6 +12,7 @@ Deeply interested in software architecture, clean code, DevOps, and project main
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanOrtega91&langs_count=8" />
 </a>  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlanOrtega91&show_icons=true&theme=dark" />
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlanOrtega91&show_icons=true&theme=dark)
 
 
