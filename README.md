@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I´m a full stack software developer from Mexico. I mainly code in Java and Javascript, but always learning all I can.
-Deeply interested in software architecture, clean code, DevOps, and projects maintainability.
+I´m a full stack software developer from Mexico. I mainly code in Java and Javascript, but always learning all I can.  
+Deeply interested in software architecture, clean code, DevOps, and project maintainability.  
 
-[![Visits Badge](https://badges.pufler.dev/visits/AlanOrtega91/git-badges)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/AlanOrtega91)](https://badges.pufler.dev)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AlanOrtega91)
 
 
@@ -13,10 +11,11 @@ Deeply interested in software architecture, clean code, DevOps, and projects mai
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanOrtega91&langs_count=8" />
-</a>
+</a>  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AlanOrtega91&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 </a> 
+
 
 
 - 🔭 I’m currently working on developing new functionalities and maintaining the code for [Hi doc](https://www.hidoc.com.mx/)
