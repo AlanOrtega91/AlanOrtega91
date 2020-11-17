@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 I´m a full stack software developer from Mexico. I mainly code in Java and Javascript, but always learning all I can.
-Deeply interested in software architecture, clean code, DevOps, 
+Deeply interested in software architecture, clean code, DevOps, and projects maintainability.
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AlanOrtega91)
 
@@ -16,6 +17,8 @@ Deeply interested in software architecture, clean code, DevOps,
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AlanOrtega91&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 </a> 
 
+
+- 🔭 I’m currently working on developing new functionalities and maintaining the code for [Hi doc](https://www.hidoc.com.mx/)
 <!--
 **AlanOrtega91/AlanOrtega91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
