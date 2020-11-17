@@ -12,14 +12,11 @@ Deeply interested in software architecture, clean code, DevOps, and project main
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanOrtega91&langs_count=8" />
 </a>  
-\
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AlanOrtega91&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
-</a> 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlanOrtega91&show_icons=true&theme=dark)
 
 
 
-- 🔭 I’m currently working on developing new functionalities and maintaining the code for [Hi doc](https://www.hidoc.com.mx/)
+- 🔭 I’m co-funder of [Hi doc](https://www.hidoc.com.mx/) and working on developing new functionalities and maintaining its code
 
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alan-ortega-samano-b5916282/) 
