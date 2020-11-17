@@ -3,7 +3,8 @@
 I´m a full stack software developer from Mexico. I mainly code in Java and Javascript, but always learning all I can.
 Deeply interested in software architecture, clean code, DevOps, and projects maintainability.
 
-
+[![Visits Badge](https://badges.pufler.dev/visits/AlanOrtega91/git-badges)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/AlanOrtega91)](https://badges.pufler.dev)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AlanOrtega91)
 
 
@@ -19,6 +20,9 @@ Deeply interested in software architecture, clean code, DevOps, and projects mai
 
 
 - 🔭 I’m currently working on developing new functionalities and maintaining the code for [Hi doc](https://www.hidoc.com.mx/)
+
+
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alan-ortega-samano-b5916282/) 
 <!--
 **AlanOrtega91/AlanOrtega91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
