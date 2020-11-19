@@ -16,7 +16,7 @@ Deeply interested in software architecture, clean code, DevOps, and project main
 - 🔭 I’m co-funder of [Hi doc](https://www.hidoc.com.mx/) and working on developing new functionalities and maintaining the code
 - 🌱 I’m currently learning microservice architecture, mobile development with Xamarin and BI.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alan-ortega-samano-b5916282/) 
-<!-- - 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view) -->
+- 📝[Resume](https://drive.google.com/file/d/1EI_zVummsUGn1mjo1gsnyK73zrmM1dUD/view?usp=sharing)
 
 ## Languages
 
