@@ -25,31 +25,27 @@ Deeply interested in software architecture, clean code, DevOps, and project main
 - C#
 - HTML
 - CSS
-- 
+- Python
+- Swift
+- MongoDB
+- SQL
 
 ## Tools
 
-**Javascript**
 - React
 - NodeJs
 - MeteorJs
 - Typescript
-
-**Java**
 - Spring
 - Android Studio
-
-**C#**
 - Xamarin for mobile development
 - Windows Forms
-
-**Swift**
 - XCode
-
-**Others**
+- Flask
 - Github actions
 - Automated deployment
 - AWS
 - Docker
 - Google Analytics
 - Slack
+- CI / CD
